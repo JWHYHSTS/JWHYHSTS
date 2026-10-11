@@ -77,9 +77,14 @@
 <br/>
 
 <!-- ===== 3D CONTRIBUTIONS ===== -->
+<h2 align="center">Contributions</h2>
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
+  <img src="https://raw.githubusercontent.com/JWHYHSTS/JWHYHSTS/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
 </p>
+
+<br/>
+
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,50:1e3a8a,100:0b1437&height=110&section=footer" width="100%" alt="footer"/>
