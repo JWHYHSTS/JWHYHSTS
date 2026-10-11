@@ -76,15 +76,10 @@
 
 <br/>
 
-<!-- ===== SNAKE ===== -->
+<!-- ===== 3D CONTRIBUTIONS ===== -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JWHYHSTS/JWHYHSTS/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JWHYHSTS/JWHYHSTS/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/JWHYHSTS/JWHYHSTS/output/github-snake-dark.svg"/>
-  </picture>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contributions"/>
 </p>
-
 <!-- ===== FOOTER ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c6ef5,50:1e3a8a,100:0b1437&height=110&section=footer" width="100%" alt="footer"/>
