@@ -29,9 +29,10 @@
 
 |                      |                                                          |
 | :------------------- | :------------------------------------------------------- |
-| 🔭 **Currently**     | Building projects with PHP and C#                         |
+| 🔭 **Currently**     | Building projects with TypeScript, Python, PHP and C#     |
+| 🎓 **Thesis**        | Lung CT image analysis · React Native (TypeScript) · Python (Jupyter) |
 | 🌱 **Learning**      | Laravel ecosystem · RESTful API · Clean Architecture      |
-| 💡 **Interests**     | Web development · Desktop applications · UI design        |
+| 💡 **Interests**     | Web · Mobile · Desktop applications · UI design           |
 | ⚡ **Workflow**       | Git · VS Code · Visual Studio                             |
 | 📫 **Reach me**      | haidangblck@gmail.com                                     |
 
@@ -43,7 +44,7 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,cs,dotnet,html,css,js,bootstrap&theme=dark&perline=8" alt="stack"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,php,laravel,cs,dotnet,html,css,bootstrap&theme=dark&perline=11" alt="stack"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio&theme=dark" alt="tools"/>
 </p>
